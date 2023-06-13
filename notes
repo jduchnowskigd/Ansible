@@ -1,1 +1,5 @@
-Trzeba ustawić usera odpowiednio w komendzie
+Trzeba ustawić usera odpowiednio przy odpalaniu playbook'a
+
+
+
+Czy przy kopiowaniu lokalnego image'u do hosta trzeba go zapakować w .tar i później odpalić docker load na host maszynce
